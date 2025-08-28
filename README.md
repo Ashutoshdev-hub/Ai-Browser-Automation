@@ -40,8 +40,8 @@ Requirements
 Installation
 1. Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/ai-browser-agent.git
-cd ai-browser-agent
+git clone https://github.com/your-username/Ai-Browser-Agents.git
+cd Ai-Browser-Agents
 npm install
 ```
 
