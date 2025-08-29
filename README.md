@@ -1,4 +1,4 @@
-# AI Browser Agent — Signup Form Auto-Filler
+# Ai-Browser-Automation — Signup Form Auto-Filler
 
 A CLI-driven agent that uses Playwright to open a browser, navigate to a signup page, detect form fields dynamically, fill them using human-like typing, and optionally submit the form. Built in TypeScript with modular utilities for retries, assertions, and media capture.
 
